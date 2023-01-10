@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "5f8e5a1910394330",
+    "type": "split",
+    "children": [
+      {
+        "id": "af7c67082652e986",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "СисАдминистрирование/Порты, которые надо знать обязательно.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "e78c76c4728bf45a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "СисАдминистрирование/DNS.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74d31f3b5c64ff19",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d2b22fc5398bb0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "957ee98590d2daff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5cc055f6efaa57f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7fb63000d6b9d290",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5
+  },
+  "right": {
+    "id": "f66089a3312ab0f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d029ada5f3c0460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79ee921a626a79c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "СисАдминистрирование/Порты, которые надо знать обязательно.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a343f88118732eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "СисАдминистрирование/Порты, которые надо знать обязательно.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb9753e2e42b1351",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "db5f7e42519da8e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "СисАдминистрирование/Порты, которые надо знать обязательно.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "active": "af7c67082652e986",
+  "lastOpenFiles": [
+    "СисАдминистрирование/Протокол ARP.md",
+    "СисАдминистрирование/MAC и Коммутатор.md",
+    "СисАдминистрирование/DNS.md",
+    "СисАдминистрирование/Порты, которые надо знать обязательно.md",
+    "СисАдминистрирование/Машрутизатор.md",
+    "С++/Что должен знать каждый C++ программист или как проводить собеседование - C++ CoreHard Autumn 2018.md",
+    "Pasted image 20221002205004.png",
+    "Pasted image 20221002204731.png",
+    "Философия/ПР№3.md",
+    "Философия/ПР№2, мы дворники.md"
+  ]
+}

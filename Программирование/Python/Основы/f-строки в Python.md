@@ -1,0 +1,1 @@
+https://teletype.in/@pythontalk/f_strings
