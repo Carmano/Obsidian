@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c5e735e104a112ac",
+        "id": "05067b82574aa621",
         "type": "tabs",
         "children": [
           {
-            "id": "a1a024dbc51d1a6a",
+            "id": "7690b9b9a598ad92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Python/django/IT Proger/Работа с базой данных. Создание модели, Admin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c44bfc1b5157580a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Python/django/IT Proger/Работа с базой данных. Создание модели, Admin.md",
+                "file": "Программирование/Python/Парсер/Библиотека bs4.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Meta",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 317.5
   },
   "right": {
     "id": "f66089a3312ab0f1",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/django/IT Proger/Работа с базой данных. Создание модели, Admin.md",
+                "file": "Программирование/Python/Парсер/Библиотека bs4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Программирование/Python/django/IT Proger/Работа с базой данных. Создание модели, Admin.md",
+                "file": "Программирование/Python/Парсер/Библиотека bs4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/django/IT Proger/Работа с базой данных. Создание модели, Admin.md"
+                "file": "Программирование/Python/Парсер/Библиотека bs4.md"
               }
             }
           }
@@ -151,25 +138,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "a1a024dbc51d1a6a",
+  "active": "7690b9b9a598ad92",
   "lastOpenFiles": [
-    "Программирование/Python/django/selfedu/CRUD - основы ORM по работе с моделями.md",
-    "Программирование/Python/django/IT Proger/Работа с базой данных. Создание модели, Admin.md",
-    "Программирование/Python/django/IT Proger/Редактирование и удаление записей.md",
-    "Программирование/Python/Основы/JSON.md",
-    "Программирование/Git & GitHub/git push и git pull.md",
-    "Программирование/Git & GitHub/Настройка имени пользователя.md",
-    "Программирование/Python/Алгоритмы, которые могут понадобится/Прочитать из файла последние N строк.md",
-    "Программирование/Python/django/selfedu/Формирование URL-адресов в шаблонах.md",
-    "Программирование/Python/django/selfedu/Создание связей между моделями БД.md",
-    "Программирование/Python/Основы/Строки.md"
+    "Pasted image 20230117195624.png.md",
+    "Программирование/Python/Парсер/Библиотека bs4.md",
+    "Pasted image 20230117195559.png.md",
+    "Программирование/Python/Парсер/Библиотека requests.md",
+    "Программирование/Python/django/IT Proger/Вывод записей из базы данных.md",
+    "Скриншоты/Pasted image 20230117195447.png.md",
+    "Pasted image 20230117195457.png.md",
+    "Программирование/БД/SQL команды в языке.md",
+    "Программирование/БД/Условие.md",
+    "Программирование/БД/Типы данных в sqlite.md"
   ]
 }

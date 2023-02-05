@@ -1,0 +1,1 @@
+https://zametkinapolyah.ru/zametki-o-mysql/chast-10-3-modifikaciya-i-izmenenie-tablic-v-bazax-dannyx-sqlite3.html
