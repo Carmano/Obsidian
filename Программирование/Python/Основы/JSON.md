@@ -21,6 +21,9 @@ JSON в основном поддерживает 6 типов данных в J
 ![[Pasted image 20230107180205.png]]
 
 ![[Pasted image 20230107180219.png]]
+
+*dump - в json файл, load с файла.*
+
 ### Функция dump()
 
 ``` python

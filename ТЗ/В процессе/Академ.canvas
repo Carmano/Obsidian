@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"type":"text","text":"Что теперь делать?","id":"22dd69378178c0c4","x":-157,"y":-207,"width":147,"height":57,"color":"1"},
+		{"type":"text","text":"Научиться, что-нибудь да готовить","id":"e84226789bc8e1c0","x":150,"y":-278,"width":237,"height":50,"color":"5"},
+		{"type":"text","text":"Проходить курс на хекслет","id":"de293a500d036534","x":-208,"y":0,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"Научиться играть на гитаре","id":"372bad0ca5f778cc","x":-282,"y":-403,"width":199,"height":53,"color":"5"},
+		{"type":"text","text":"Книги","id":"b2bf3eacb391a5c7","x":69,"y":-403,"width":81,"height":53,"color":"5"},
+		{"type":"text","text":"Попробовать найти какой-нибудь кулинарный канал, который учил бы готовить","id":"24d1fedda80fa614","x":461,"y":-291,"width":250,"height":76},
+		{"type":"text","text":"Организовать учебу на хекслет","id":"e3c1458ab2eec2a9","x":-350,"y":193,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"Что то сделать с котом","id":"44d942e876b7d3fb","x":-516,"y":-78,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"скачать книгу на грамматику","id":"230f03a11fad2989","x":-925,"y":-235,"width":250,"height":60},
+		{"type":"text","text":"скачать анки","id":"7778cc92ade54538","x":-925,"y":-403,"width":250,"height":60},
+		{"type":"text","text":"начать читать гуля на английском","id":"fad1ebb49b7eb243","x":-925,"y":-321,"width":250,"height":60},
+		{"type":"text","text":"Учить английский","id":"7398af40d5074d15","x":-535,"y":-316,"width":165,"height":50,"color":"5"},
+		{"type":"text","text":"Дочитьтать мертвые души","id":"1e70ea64a3625fd2","x":69,"y":-544,"width":250,"height":60},
+		{"type":"text","text":"записаться на канал, который учил бы играть на гитаре","id":"caee97a5d8c59ca7","x":-308,"y":-546,"width":250,"height":60},
+		{"type":"text","text":"Улучшить свой голос","id":"0705979dbd472839","x":150,"y":-112,"width":250,"height":60,"color":"5"},
+		{"id":"d9f02e2691d14b21","x":-700,"y":-920,"width":400,"height":186,"type":"file","file":"Скриншоты/Дорожная карта.png"}
+	],
+	"edges":[
+		{"id":"d98d503736b10e88","fromNode":"22dd69378178c0c4","fromSide":"bottom","toNode":"de293a500d036534","toSide":"top"},
+		{"id":"31995c220fc6d3a0","fromNode":"22dd69378178c0c4","fromSide":"top","toNode":"372bad0ca5f778cc","toSide":"bottom"},
+		{"id":"76bd0761906f71c9","fromNode":"22dd69378178c0c4","fromSide":"right","toNode":"e84226789bc8e1c0","toSide":"left"},
+		{"id":"b59b44036d47f7df","fromNode":"22dd69378178c0c4","fromSide":"left","toNode":"7398af40d5074d15","toSide":"right"},
+		{"id":"ab29dafa8988dc27","fromNode":"22dd69378178c0c4","fromSide":"bottom","toNode":"44d942e876b7d3fb","toSide":"top"},
+		{"id":"f7829258821fb463","fromNode":"22dd69378178c0c4","fromSide":"top","toNode":"b2bf3eacb391a5c7","toSide":"bottom"},
+		{"id":"65de729ce331b938","fromNode":"e84226789bc8e1c0","fromSide":"right","toNode":"24d1fedda80fa614","toSide":"left"},
+		{"id":"34d5bd9f0621221c","fromNode":"de293a500d036534","fromSide":"bottom","toNode":"e3c1458ab2eec2a9","toSide":"top"},
+		{"id":"392c681a1ec96ffe","fromNode":"7398af40d5074d15","fromSide":"left","toNode":"fad1ebb49b7eb243","toSide":"right"},
+		{"id":"0f6c40fdbf155eb1","fromNode":"7398af40d5074d15","fromSide":"left","toNode":"230f03a11fad2989","toSide":"right"},
+		{"id":"f2f140b407e8cb4d","fromNode":"7398af40d5074d15","fromSide":"left","toNode":"7778cc92ade54538","toSide":"right"},
+		{"id":"faff0ee76da83a29","fromNode":"b2bf3eacb391a5c7","fromSide":"top","toNode":"1e70ea64a3625fd2","toSide":"bottom"},
+		{"id":"710b0a22e5677b74","fromNode":"372bad0ca5f778cc","fromSide":"top","toNode":"caee97a5d8c59ca7","toSide":"bottom"},
+		{"id":"20fccf9b0b671481","fromNode":"22dd69378178c0c4","fromSide":"bottom","toNode":"0705979dbd472839","toSide":"top"}
+	]
+}

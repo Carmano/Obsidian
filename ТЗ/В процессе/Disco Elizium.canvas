@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"6e58628ac3a28b11","x":-412,"y":-263,"width":250,"height":60,"type":"text","text":"Король"},
+		{"id":"c3bbc4c53b0b377b","x":37,"y":-658,"width":250,"height":60,"type":"text","text":"Революция"},
+		{"id":"255e02d0284ba240","x":23,"y":-356,"width":264,"height":247,"type":"text","text":"Ревашоль. \n\nГород, в котором мы находимся. Находится на Острийской Изоле. Город был когдато жемчужиной мира, но сейчас проходит не самые лучшие времена для этого города. "},
+		{"id":"683982c37ac65a12","x":-227,"y":40,"width":250,"height":60,"type":"text","text":"Забастовка"},
+		{"id":"ca0ddf7812a0c6fe","x":-55,"y":361,"width":250,"height":60,"type":"text","text":"Эврар лидер профсоюза"},
+		{"id":"c522e9a8c6891b3d","x":703,"y":-455,"width":250,"height":60,"type":"text","text":"Фрисель"},
+		{"id":"0e07f0df0e33f2bc","x":772,"y":-608,"width":250,"height":60,"type":"text","text":"Семенинские острова"},
+		{"id":"b5cd0542645bbdee","x":346,"y":-553,"width":250,"height":60,"type":"text","text":"ЭПИС"},
+		{"id":"2af52d5c198b35ec","x":522,"y":-323,"width":250,"height":60,"type":"text","text":"Самара"},
+		{"id":"659e672c8e4390ff","x":578,"y":-782,"width":125,"height":60,"type":"text","text":"Ильдемарата"},
+		{"id":"767123d19bd47b22","x":972,"y":-271,"width":250,"height":68,"type":"text","text":"Гарри Дюбуа"},
+		{"id":"2c4c6495d9d5fd68","x":972,"y":-123,"width":250,"height":60,"type":"text","text":"- Коп из 41 участка.\n- Был женат.\n- Имею интересный способ мышления"},
+		{"id":"9fd71cdd6b07a07a","x":346,"y":207,"width":250,"height":60,"type":"text","text":"Предположительно убили докеры из профсоюза"},
+		{"id":"34b2dba5f438856a","x":346,"y":-19,"width":250,"height":122,"type":"text","text":"Повешанный\n\nНеделю назад"},
+		{"id":"b6d60737cd5917d1","x":752,"y":60,"width":220,"height":147,"type":"text","text":"\nповешанный предположительно охраник из компании(Уайд Пайнс)"},
+		{"id":"0a168475b9d347c4","x":379,"y":411,"width":250,"height":60,"type":"text","text":"Стачка "},
+		{"id":"204d01e44c9304b3","x":1098,"y":-553,"width":250,"height":60,"type":"text","text":"Соль часит света"},
+		{"id":"a64ab89b349d43c9","x":1221,"y":-403,"width":250,"height":60,"type":"text","text":"Юго-град"},
+		{"id":"8cca5e5e3d75ed5f","x":1279,"y":8,"width":250,"height":60,"type":"text","text":"Самарийская Народная Республика"},
+		{"id":"9e9f88c98dcfde6a","x":762,"y":-918,"width":250,"height":60,"type":"text","text":"Полуостров Уби Сун"},
+		{"id":"2dba8e5f0fc6f7c0","x":1389,"y":-263,"width":250,"height":60,"type":"text","text":"Ким Кицураги\nна половину солиец"},
+		{"id":"122714a5fa77e628","x":1116,"y":-704,"width":250,"height":60,"type":"text","text":"Граада"},
+		{"id":"6f00d27aa2313ddc","x":927,"y":-782,"width":250,"height":60,"type":"text","text":"Мунди"},
+		{"id":"fdf1f54b15cf2c98","x":-477,"y":-596,"width":250,"height":147,"type":"text","text":"Филип 3(рассточительный) сын Филипа 2(зажиточный), отец Филипа 4(безумного)\nФилиппийцы\n\nКороль Ревашоля"}
+	],
+	"edges":[
+		{"id":"a382de95c6ade637","fromNode":"767123d19bd47b22","fromSide":"bottom","toNode":"2c4c6495d9d5fd68","toSide":"top"},
+		{"id":"f0f5a8a930ae9160","fromNode":"34b2dba5f438856a","fromSide":"bottom","toNode":"9fd71cdd6b07a07a","toSide":"top"},
+		{"id":"c68234ce3b0dc290","fromNode":"34b2dba5f438856a","fromSide":"right","toNode":"b6d60737cd5917d1","toSide":"left"}
+	]
+}
