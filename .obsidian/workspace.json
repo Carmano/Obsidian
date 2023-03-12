@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b2e34361cadc8ab3",
+        "id": "b562897d9e1d2d47",
         "type": "tabs",
         "children": [
           {
-            "id": "eb661a8f82cc36c1",
+            "id": "aea63985ea648783",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/PYTHON/django/selfedu/1. Виртуальное окружение.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Виртуально",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Программирование/PYTHON/django/selfedu/1. Виртуальное окружение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Программирование/PYTHON/django/selfedu/1. Виртуальное окружение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Программирование/PYTHON/django/selfedu/1. Виртуальное окружение.md"
+              }
             }
           }
         ]
@@ -138,48 +147,54 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "eb661a8f82cc36c1",
+  "active": "aea63985ea648783",
   "lastOpenFiles": [
+    "Программирование/Linux/Linux. Username is not in the sudoers file. This incident will be reported.md",
     "ТЗ/Менеджер задач.md",
-    "Программирование/python Django ORM/Python. Корзина покупок.md",
-    "Программирование/python Django ORM/Python. Цитата дня.md",
-    "Программирование/python Django ORM/9. Эффективное использование ORM.md",
-    "Программирование/python Django ORM/8. Транзкакции.md",
-    "Программирование/python Django ORM/7. Аннотирование и агрегация.md",
-    "Программирование/python Django ORM/6. Многие ко Многим.md",
-    "Программирование/python Django ORM/5. Связи.md",
-    "Программирование/python Django ORM/4. Запрос данных из базы.md",
-    "Программирование/python Django ORM/3. Модель.md",
-    "Программирование/python Django ORM/2. Основные концепции.md",
-    "Pasted image 20230309183114.png",
-    "Pasted image 20230309183104.png",
-    "Pasted image 20230309183058.png",
-    "Pasted image 20230309182433.png",
-    "Программирование/python Django ORM/1. Настройка Django ORM.md",
-    "Программирование/python Django ORM",
-    "Программирование/Разработка на django/16. Обновление (CRUD).md",
-    "Программирование/Разработка на django/15. Создание (CRUD).md",
-    "Программирование/Разработка на django/14. Работа с формами.md",
-    "Программирование/Разработка на django/13. Просмотр CRUD.md",
-    "Программирование/Разработка на django/17. Удаление (CRUD).md",
-    "Программирование/Разработка на django/12. Список CRUD.md",
-    "Программирование/Разработка на django/9. Работа с моделями.md",
-    "Программирование/Разработка на django/10. Конфигурация.md",
-    "Программирование/Разработка на django/11. django admin.md",
-    "Pasted image 20230306162015.png",
-    "Pasted image 20230306162005.png",
-    "Pasted image 20230306161938.png",
-    "Pasted image 20230306161855.png",
-    "Pasted image 20230306161843.png",
-    "Pasted image 20230306161824.png",
-    "Английский/Местоимения.md",
-    "Английский/Многократная притяжательная форма.md",
-    "Английский/Произнесение чисел.md",
-    "Программирование/django/selfedu/CRUD - основы ORM по работе с моделями.md",
-    "Программирование/Разработка на django",
+    "Программирование/Linux",
+    "Программирование/HTTP/9. Cookies.md",
+    "Программирование/HTTP/Заголовки.md",
+    "Программирование/HTTP/8. Базовая аутентификация.md",
+    "Программирование/HTTP/7. Перенаправление.md",
+    "Программирование/HTTP/6. Передача данных Query string.md",
+    "Программирование/HTTP/5. Transefer-encoding.md",
+    "Программирование/HTTP/4. Отправка форм.md",
+    "Программирование/HTTP/3. Тело HTTP запроса.md",
+    "Программирование/Без названия.md",
+    "Программирование/PYTHON",
+    "Английский/Существительное плюс существительное в английском языке.md",
+    "ТЗ/В процессе/django.canvas",
+    "ТЗ/В процессе/Без названия.md",
+    "ТЗ/В процессе/ДОСКА.canvas",
     "ТЗ/В процессе/Академ.canvas",
     "ТЗ/В процессе/Disco Elizium.canvas",
-    "Программирование/Может пригодится",
-    "ТЗ/В процессе/ДОСКА.canvas"
+    "ТЗ/В процессе/Мои оценки с зачетки.canvas",
+    "ТЗ/Выполнено/Чем можно заняться в течении сб-вт.canvas",
+    "ТЗ/Выполнено/Что делать с академом.canvas",
+    "Скриншоты/Английские местоимения.png",
+    "Скриншоты/Pasted image 20230306161824.png",
+    "Программирование/PYTHON/python Django ORM/Python. Корзина покупок.md",
+    "Программирование/PYTHON/python Django ORM/Python. Цитата дня.md",
+    "Программирование/PYTHON/python Django ORM/9. Эффективное использование ORM.md",
+    "Программирование/PYTHON/python Django ORM/8. Транзкакции.md",
+    "Программирование/PYTHON/python Django ORM/7. Аннотирование и агрегация.md",
+    "Программирование/PYTHON/python Django ORM/6. Многие ко Многим.md",
+    "Программирование/PYTHON/python Django ORM/5. Связи.md",
+    "Программирование/PYTHON/python Django ORM/4. Запрос данных из базы.md",
+    "Программирование/PYTHON/python Django ORM/3. Модель.md",
+    "Программирование/PYTHON/python Django ORM/2. Основные концепции.md",
+    "Скриншоты/Pasted image 20230309183114.png",
+    "Скриншоты/Pasted image 20230309183104.png",
+    "Скриншоты/Pasted image 20230309183058.png",
+    "Скриншоты/Pasted image 20230309182433.png",
+    "Программирование/PYTHON/python Django ORM/1. Настройка Django ORM.md",
+    "Программирование/PYTHON/python Django ORM",
+    "Программирование/PYTHON/Разработка на django/16. Обновление (CRUD).md",
+    "Скриншоты/Pasted image 20230306162015.png",
+    "Скриншоты/Pasted image 20230306162005.png",
+    "Скриншоты/Pasted image 20230306161938.png",
+    "Скриншоты/Pasted image 20230306161855.png",
+    "Программирование/PYTHON/Разработка на django",
+    "Программирование/Может пригодится"
   ]
 }
