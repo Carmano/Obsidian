@@ -1,0 +1,1 @@
+https://itisgood.ru/2020/09/01/kak-ustanovit-zsh-na-linux/

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b562897d9e1d2d47",
+        "id": "53fb84bf08e5ca13",
         "type": "tabs",
         "children": [
           {
-            "id": "aea63985ea648783",
+            "id": "6d54921a590903d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/PYTHON/django/selfedu/1. Виртуальное окружение.md",
+                "file": "Программирование/PYTHON/Python основы/Основы/mutable variables/Списки.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Виртуально",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/PYTHON/django/selfedu/1. Виртуальное окружение.md",
+                "file": "Программирование/PYTHON/Python основы/Основы/mutable variables/Списки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Программирование/PYTHON/django/selfedu/1. Виртуальное окружение.md",
+                "file": "Программирование/PYTHON/Python основы/Основы/mutable variables/Списки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/PYTHON/django/selfedu/1. Виртуальное окружение.md"
+                "file": "Программирование/PYTHON/Python основы/Основы/mutable variables/Списки.md"
               }
             }
           }
@@ -147,8 +146,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "aea63985ea648783",
+  "active": "6d54921a590903d5",
   "lastOpenFiles": [
+    "Программирование/PYTHON/django/selfedu/1. Виртуальное окружение.md",
+    "Программирование/Linux/Как установить Zsh на Linux.md",
+    "ТЗ/В процессе/Без названия.canvas",
+    "Без названия",
     "Программирование/Linux/Linux. Username is not in the sudoers file. This incident will be reported.md",
     "ТЗ/Менеджер задач.md",
     "Программирование/Linux",
@@ -187,9 +190,7 @@
     "Скриншоты/Pasted image 20230309183104.png",
     "Скриншоты/Pasted image 20230309183058.png",
     "Скриншоты/Pasted image 20230309182433.png",
-    "Программирование/PYTHON/python Django ORM/1. Настройка Django ORM.md",
     "Программирование/PYTHON/python Django ORM",
-    "Программирование/PYTHON/Разработка на django/16. Обновление (CRUD).md",
     "Скриншоты/Pasted image 20230306162015.png",
     "Скриншоты/Pasted image 20230306162005.png",
     "Скриншоты/Pasted image 20230306161938.png",
